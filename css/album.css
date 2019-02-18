@@ -1,0 +1,29 @@
+body {
+	background: url(../img/bg.jpg) repeat #FFFFFF;
+}
+
+.album-area {
+	margin-top: 100px;
+	margin-left: 50px;
+	padding-top:50px;
+	padding-left: 50px;
+	height: 860px;
+	width: calc(100% - 50px);
+	min-width: 1173px;
+	background: #FBBE18;
+}
+.album-area p {
+	text-align: center;
+	padding :10px -10px;
+	margin-bottom:  26px;
+}
+
+.album-photo {
+	margin-right: 50px;
+	height: 220px;
+	width: 240px;
+}
+.album-row {
+	display: inline-block;
+	float: left;
+}

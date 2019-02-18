@@ -1,0 +1,96 @@
+body {
+	background: url(../img/bg.jpg) repeat #FFFFFF;
+}
+
+.hobby {
+	margin-top: 100px;
+	padding-left: 50px;
+}
+
+.hobby h1 {
+	color: #E94A54;
+	font-family: 'Franklin Gothic Medium';
+	font-weight: 900;
+}
+
+.hobby article{
+	min-width: 1173px;
+	width: 100%;
+	height: 100%;
+	display: block;
+	background: #FBBE18;
+	padding: 41px;
+	text-align: justify;
+}
+
+.hobby p {
+	text-indent: 50px;
+}
+
+.title {
+	margin-top: 50px;
+	height: 50px;
+	width: 424px;
+	background: #20252A;
+	padding-right: 50px;
+	z-index:-1;
+	color: #FBBE18;
+}
+
+.top-button a{
+	float: left;
+	display: inline;
+	background: #20252A;
+	width: 50px;
+	height: 50px;
+	padding: 10px;
+	margin-right: 41px;
+}
+
+.top-button a:hover {
+	background: #E5194A;
+}
+
+.top-button img {
+	width: 30px;
+	height: 30px;
+}
+
+.title-name a {
+	display: inline;
+	font-weight: 900;
+	font-size: 40px;
+	line-height: 47px;
+}
+
+
+.favorites {
+	padding-left: 50px;
+}
+
+.favorites article{
+	min-width: 1173px;
+	width: 100%;
+	height: 100%;
+	min-height: 570px;
+	margin-bottom: 50px;
+	display: block;
+	background: #FBBE18;
+	padding: 41px;
+	text-align: justify;
+}
+
+.favorites img {
+	margin-right: 41px;
+	float: left;
+}
+
+.favorites h1 {
+	color: #E94A54;
+	font-family: 'Franklin Gothic Medium';
+	font-weight: 900;
+}
+
+.favorites h5 {
+	color: #20252A;
+}
